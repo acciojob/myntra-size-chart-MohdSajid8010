@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+table{
+	background-color:grey;
+/* 	padding:5px; */
+	width:70%;
+	border-spacing:0px;
+	border:1px solid black;
+
+}
+thead{
+/* 	display:inline-block; */
+	width:400px;
+	background-color:brown;
+	border:2px solid yellow;
+	text-align:center;
+	boder-bottom:1px solid black;
+}
+td{
+	padding-left:25px;
+	border-right:1px solid black;
+}
+td{
+	border-bottom:1px solid black;
+}
